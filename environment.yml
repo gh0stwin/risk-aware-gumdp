@@ -1,0 +1,7 @@
+name: risk_aware_gumdp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - poetry=2.4.1

@@ -1,0 +1,10 @@
+system_name: erm_occupancy_mcts
+h: 500
+gamma: 0.99
+expansion_steps: 1024
+beta: 0.01
+bonus:
+  bonus_type: erm_uct
+  kw:
+    coeff: 1.4142135624
+debug: false

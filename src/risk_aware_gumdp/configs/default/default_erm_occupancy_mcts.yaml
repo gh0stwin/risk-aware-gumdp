@@ -1,0 +1,10 @@
+defaults:
+  - logger: base_logger
+  - arch: base_arch
+  - system: erm_occupancy_mcts
+  - env: msee
+  - _self_
+
+hydra:
+  searchpath:
+    - file://src/risk_aware_gumdp/configs
