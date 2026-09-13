@@ -5,7 +5,7 @@
 This repository contains the official implementation of the paper "Risk-Aware General-Utility Markov Decision Processes" by Pedro P. Santos, Fábio Vital, Alberto Sardinha, and Francisco S. Melo.
 
 [![arXiv](https://img.shields.io/badge/arXiv-2607.09298-b31b1b.svg)](https://arxiv.org/abs/2607.09298)
-![Static Badge](https://img.shields.io/badge/conference-RLC_2026-blue?logo=test&label=Conference&color=%231b3a9e&link=https%3A%2F%2Frlj.cs.umass.edu%2F2026%2Fpapers%2FPaper17.html)
+[![Static Badge](https://img.shields.io/badge/conference-RLC_2026-blue?logo=test&label=Conference&color=%231b3a9e)](https://rlj.cs.umass.edu/2026/papers/Paper17.html)
 [![Static Badge](https://img.shields.io/badge/Blog_Post-brightgreen?logo=test&label=Digest)](https://ppsantos.github.io/posts/risk-aware-gumdps/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
